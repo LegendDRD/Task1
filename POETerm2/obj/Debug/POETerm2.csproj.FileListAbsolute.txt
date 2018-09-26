@@ -1,0 +1,10 @@
+c:\users\user\source\repos\POETerm2\POETerm2\bin\Debug\POETerm2.exe.config
+c:\users\user\source\repos\POETerm2\POETerm2\bin\Debug\POETerm2.exe
+c:\users\user\source\repos\POETerm2\POETerm2\bin\Debug\POETerm2.pdb
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.Form1.resources
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.Properties.Resources.resources
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.csproj.GenerateResource.Cache
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.exe
+c:\users\user\source\repos\POETerm2\POETerm2\obj\Debug\POETerm2.pdb
